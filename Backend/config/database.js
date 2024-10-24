@@ -29,3 +29,4 @@ try {
 }
 
 module.exports = sequelize;
+
